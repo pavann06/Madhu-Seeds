@@ -1,4 +1,9 @@
 /********** Template CSS **********/
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+
+
 :root {
     --primary: #FEA116;
     --light: #F1F8FF;
@@ -477,3 +482,16 @@
     padding-right: 0;
     border-right: none;
 }
+
+#title{
+    font-size: 52px;
+    font-family: "Lexend" ,SemiBold;
+}
+#para{
+    font-size: 22px;
+    font-size: "Lexend" , Medium;
+    margin-top: 10px;
+
+}
+
+

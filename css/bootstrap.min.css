@@ -433,7 +433,7 @@ progress {
 }
 .display-3 {
   font-size: calc(1.525rem + 3.3vw);
-  font-weight: 800;
+  font-weight: 500;
   line-height: 1.2;
 }
 @media (min-width: 1200px) {
@@ -6788,6 +6788,7 @@ fieldset:disabled .btn {
 }
 .text-primary {
   color: #fea116 !important;
+  
 }
 .text-secondary {
   color: #6c757d !important;
