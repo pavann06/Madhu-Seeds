@@ -3064,12 +3064,12 @@ fieldset:disabled .btn {
   background-color: transparent;
 }
 .btn-outline-light {
-  color: #f1f8ff;
+  color: black;
   border-color: #f1f8ff;
 }
 .btn-outline-light:hover {
   color: #000;
-  background-color: #f1f8ff;
+  background-color: #FEA116;
   border-color: #f1f8ff;
 }
 .btn-check:focus + .btn-outline-light,
