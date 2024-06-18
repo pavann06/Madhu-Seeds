@@ -1,0 +1,255 @@
+[
+    {
+      "Category": "IMPROVED - BAHUBALI+",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "120-125",
+      "Plant Height (cm)": "85-90",
+      "Grain Type": "Long Slender",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - MADHU SWARNA",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "145-150",
+      "Plant Height (cm)": "95-100",
+      "Grain Type": "Short Bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Brown",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - MADHU - 55",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "130-135",
+      "Plant Height (cm)": "95-100",
+      "Grain Type": "Long Slender",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED- MADHU POHA",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "135-140",
+      "Plant Height (cm)": "100-105",
+      "Grain Type": "Medium Bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Medium Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - MADHU - 1001",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "140-145",
+      "Plant Height (cm)": "95-100",
+      "Grain Type": "Short Bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - MADHU SAMPADA",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "135-140",
+      "Plant Height (cm)": "90-95",
+      "Grain Type": "Short bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Brown",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED- MADHU - 03",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "100-115",
+      "Plant Height (cm)": "95-100",
+      "Grain Type": "Medium Long Super Fine",
+      "Disease/Pest Tolerancy": "B&B Resistant",
+      "Advantage": "High Yielding Variety",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - MADHU - 04",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "145-150",
+      "Plant Height (cm)": "95-100",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - JAI SIYA RAM",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "140-145",
+      "Plant Height (cm)": "95-100",
+      "Grain Type": "Super Fine",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - MADHU - 2828",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "120-125",
+      "Plant Height (cm)": "90-95",
+      "Grain Type": "Medium Fine",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Dark Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - BENGAL - 8040",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "140-145",
+      "Plant Height (cm)": "85-90",
+      "Grain Type": "Short Bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+     "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - PUNJAB - 1010",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "115-120",
+      "Plant Height (cm)": "90-95",
+      "Grain Type": "Medium Long",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+    "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - PUNJAB - 64",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "120-125",
+      "Plant Height (cm)": "100-105",
+      "Grain Type": "Long Slender",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+    "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "Paddy - MTU-7029",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "145-150",
+      "Plant Height (cm)": "95-100",
+      "Grain Type": "Short Bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Brown",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "Paddy - MTU-1001",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "140-145",
+      "Plant Height (cm)": "95-100",
+      "Grain Type": "Short Bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "Paddy - MTU-1010",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "115-120",
+      "Plant Height (cm)": "90-95",
+      "Grain Type": "Medium Long",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "Paddy - MAHAMAYA",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "135-140",
+      "Plant Height (cm)": "100-105",
+      "Grain Type": "Medium Bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Medium Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "Paddy - BPT-5204",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "145-150",
+      "Plant Height (cm)": "95-100",
+      "Grain Type": "Fine",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "Paddy - IR-64",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "120-125",
+      "Plant Height (cm)": "100-105",
+      "Grain Type": "Long Slender",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "Paddy - HMT",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "135-140",
+      "Plant Height (cm)": "90-95",
+      "Grain Type": "Medium Long Super Fine",
+      "Disease/Pest Tolerancy": "B&B Resistant",
+      "Advantage": "High Yielding Variety",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "Paddy - BB-11",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": "140-145 ",
+      "Plant Height (cm)": "85-90",
+      "Grain Type": "Short Bold",
+      "Disease/Pest Tolerancy": "Non-Tolerant",
+      "Colour": "Gold",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - PUNJAB - 140",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": 140,
+      "Plant Height (cm)": "",
+      "Grain Type": "Long Cylinder",
+      "Disease/Pest Tolerancy": "",
+      "Advantage": "",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    },
+    {
+      "Category": "IMPROVED - MADHU - 606",
+      "Sowing Season": "Kharif",
+      "Duration(Days)": 100,
+      "Plant Height (cm)": "",
+      "Grain Type": "Super Fine",
+      "Disease/Pest Tolerancy": "",
+      "Advantage": "",
+      "Image": "./img/about-1.jpg",
+      "Price":"Rs : 130"
+    }
+  ]
+  
