@@ -165,7 +165,9 @@
                     productCard.innerHTML = `
                         <div class="product-item bg-light rounded overflow-hidden">
                             <div class="product-img position-relative overflow-hidden">
+                                <a href="product.html?id=${id}">
                                 <img class="img-fluid w-100" src="${product.Image}" alt="${product.Category}" style="max-width: 351px;">
+                            </a>
                             </div>
                             <div class="text-center py-4">
                                 <a class="h6 text-decoration-none text-truncate" href="product.html?id=${id}">${product.Category}</a>
