@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Restoran - Menu</title>
+    <title>Madhu Agri Seeds</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <link href="img/favicon.ico" rel="icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,7 +22,9 @@
     <div class="container-xxl bg-white p-0">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
             <a href="" class="navbar-brand p-0">
-                <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Restoran</h1>
+                <h1 class="text-primary m-0" id="madhu">
+                    <img src="./img/seeds-seads-1.png" style="margin-right: 1rem;" />Madhu Agri Seeds
+                  </h1>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
@@ -32,8 +34,8 @@
                     <a href="index.html" class="nav-item nav-link">Home</a>
                     <a href="about.html" class="nav-item nav-link">About</a>
                     <a href="service.html" class="nav-item nav-link">Service</a>
-                    <a href="menu.html" class="nav-item nav-link active">Menu</a>
-                    <a href="product.html" class="nav-item nav-link">Products</a>
+                    <a href="menu.html" class="nav-item nav-link active">Products</a>
+                    <!-- <a href="product.html" class="nav-item nav-link">Products</a> -->
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu m-0">
@@ -50,7 +52,7 @@
 
         <div class="container-xxl py-5 bg-dark hero-header mb-5">
             <div class="container text-center my-5 pt-5 pb-4">
-                <h1 class="display-3 text-white mb-3 animated slideInDown">Menu</h1>
+                <h1 class="display-3 text-white mb-3 animated slideInDown">Products</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
@@ -163,11 +165,7 @@
                     productCard.innerHTML = `
                         <div class="product-item bg-light rounded overflow-hidden">
                             <div class="product-img position-relative overflow-hidden">
-                                <img class="img-fluid w-100"  src="${product.Image}" alt="${product.Category}" style="max-width: 300px;" >
-                                <div class="product-action">
-                                    <a class="btn btn-outline-dark btn-square" href="product.html?id=${id}"><i class="fa fa-shopping-cart"></i></a>
-                                    <a class="btn btn-outline-dark btn-square" href="product.html?id=${id}"><i class="fa fa-info-circle"></i></a>
-                                </div>
+                                <img class="img-fluid w-100" src="${product.Image}" alt="${product.Category}" style="max-width: 351px;">
                             </div>
                             <div class="text-center py-4">
                                 <a class="h6 text-decoration-none text-truncate" href="product.html?id=${id}">${product.Category}</a>
@@ -181,6 +179,7 @@
                 }
             });
     </script>
+    
 </body>
 
 </html>
