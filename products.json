@@ -7,7 +7,7 @@
       "Grain Type": "Long Slender",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/improved-bahubali+.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -18,7 +18,7 @@
       "Grain Type": "Short Bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Brown",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED - MADHU SWARNA.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -29,7 +29,7 @@
       "Grain Type": "Long Slender",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROvED - MADHU - 55.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -40,7 +40,7 @@
       "Grain Type": "Medium Bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Medium Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED- MADHU POHA.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -51,7 +51,7 @@
       "Grain Type": "Short Bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED - MADHU - 1001.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -62,7 +62,7 @@
       "Grain Type": "Short bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Brown",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED - MADHU SAMPADA.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -73,7 +73,7 @@
       "Grain Type": "Medium Long Super Fine",
       "Disease/Pest Tolerancy": "B&B Resistant",
       "Advantage": "High Yielding Variety",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED- MADHU - 03.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -83,20 +83,21 @@
       "Plant Height (cm)": "95-100",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED - MADHU - 04.jpg",
       "Price":"Rs : 130"
     },
     {
       "Category": "IMPROVED - JAI SIYA RAM",
       "Sowing Season": "Kharif",
-      "Duration(Days)": "140-145",
+      "Duration(Days)": "140-145 (Long Duration)",
       "Plant Height (cm)": "95-100",
       "Grain Type": "Super Fine",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED - JAI SIYA RAM.jpg",
       "Price":"Rs : 130"
     },
+  
     {
       "Category": "IMPROVED - MADHU - 2828",
       "Sowing Season": "Kharif",
@@ -105,7 +106,7 @@
       "Grain Type": "Medium Fine",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Dark Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED - MADHU - 2828.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -116,7 +117,7 @@
       "Grain Type": "Short Bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-     "Image": "./img/about-1.jpg",
+     "Image": "./img/IMPROVED - BENGAL - 8040.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -127,7 +128,7 @@
       "Grain Type": "Medium Long",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-    "Image": "./img/about-1.jpg",
+    "Image": "./img/IMPROVED - PUNJAB - 1010.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -138,7 +139,7 @@
       "Grain Type": "Long Slender",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-    "Image": "./img/about-1.jpg",
+    "Image": "./img/IMPROVED - PUNJAB - 64.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -149,7 +150,7 @@
       "Grain Type": "Short Bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Brown",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/Paddy - MTU-7029.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -160,7 +161,7 @@
       "Grain Type": "Short Bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/Paddy - MTU-1001.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -171,7 +172,7 @@
       "Grain Type": "Medium Long",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/Paddy - MTU-1010.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -182,7 +183,7 @@
       "Grain Type": "Medium Bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Medium Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/Paddy - MAHAMAYA.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -193,7 +194,7 @@
       "Grain Type": "Fine",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/Paddy - BPT-5204.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -204,7 +205,7 @@
       "Grain Type": "Long Slender",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/Paddy - IR-64.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -215,7 +216,7 @@
       "Grain Type": "Medium Long Super Fine",
       "Disease/Pest Tolerancy": "B&B Resistant",
       "Advantage": "High Yielding Variety",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/Paddy - HMT.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -226,7 +227,7 @@
       "Grain Type": "Short Bold",
       "Disease/Pest Tolerancy": "Non-Tolerant",
       "Colour": "Gold",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/Paddy - BB-11.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -237,7 +238,7 @@
       "Grain Type": "Long Cylinder",
       "Disease/Pest Tolerancy": "",
       "Advantage": "",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED - PUNJAB - 140.jpg",
       "Price":"Rs : 130"
     },
     {
@@ -248,7 +249,7 @@
       "Grain Type": "Super Fine",
       "Disease/Pest Tolerancy": "",
       "Advantage": "",
-      "Image": "./img/about-1.jpg",
+      "Image": "./img/IMPROVED - MADHU - 606.jpg",
       "Price":"Rs : 130"
     }
   ]
